@@ -1,5 +1,7 @@
 # PneumoniaDetection
-Detecting Pneumonia using Deep Learning Algorithm 
+Detecting Pneumonia using Deep Learning Algorithm.
+
+GUI of the program is developed using QtDesigner.
 
 Download all the files and put them in a single folder.
 
