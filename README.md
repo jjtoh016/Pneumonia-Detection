@@ -9,7 +9,7 @@ best.pt is the trained YoloV5 model to inference chest X-ray image for detecting
 
 mainGUI.py is the main code for the program, execute it to run the program.
 
-Download Offline Application: [here]https://github.com/jjtoh016/Pneumonia-Detection/releases
+Download Offline Application: [here](https://github.com/jjtoh016/Pneumonia-Detection/releases)
 
 Attached youtube link showcases the program.
 
